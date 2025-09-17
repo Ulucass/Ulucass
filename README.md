@@ -11,12 +11,6 @@
   </a>
 </div>
 
-### 🛠️ Tecnologias  
-<div style="display: inline-block"><br>
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> 
-</div>
-
 <div align="center">
   <img src="https://github.com/PLucasMendonca/PLucasMendonca/blob/output/snake.svg" width="100%" alt="Contribuições GitHub" />
 </div>
@@ -29,6 +23,8 @@
   <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
 
 ### 🌍 Conecte-se comigo  
