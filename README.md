@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas 👋
+## Olá! Eu sou o Lucas Huann👋
 
 - 🔭 Atualmente estou à procura de um emprego na área de Programação  
 - 📕 Formado em Engenharia de Software
