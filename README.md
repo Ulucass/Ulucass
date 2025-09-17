@@ -1,9 +1,25 @@
-### Olá eu sou o Lucas 👋
+## Olá! Eu sou o Lucas 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukas.santos__/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/uluquinhas0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-huann-373925198/)
+- 🔭 Atualmente estou à procura de um emprego na área de Programação  
+- 📕 Formado em Engenharia de Software
+- 🏫 Faculdade: Instituto de Educação Superior de Brasília (IESB)  
+- 💬 Fique à vontade para me perguntar sobre qualquer assunto!  
+- ⚡ Curiosidade: Tenho 22 anos  
 
+<div align="center">
+  <a href="https://github.com/ulucass">
+  </a>
+</div>
+
+### 🛠️ Tecnologias  
+<div style="display: inline-block"><br>
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> 
+</div>
+
+<div align="center">
+  <img src="https://github.com/PLucasMendonca/PLucasMendonca/blob/output/snake.svg" width="100%" alt="Contribuições GitHub" />
+</div>
 
 ## Tecnologias que uso no meu dia
 
@@ -14,3 +30,11 @@
   <img align="center" alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
+
+### 🌍 Conecte-se comigo  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukas.santos__/)
+  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/uluquinhas0)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-huann-373925198/)
+
+### 📚 Cursos e Projetos  
+Aqui vou compartilhar todos os cursos que eu estiver fazendo e os projetos relacionados!
