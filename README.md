@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Lucas Huann👋
 
-- 🔭 Atualmente estou à procura de um emprego na área de Programação  
 - 📕 Formado em Engenharia de Software
 - 🏫 Faculdade: Instituto de Educação Superior de Brasília (IESB)  
 - 💬 Fique à vontade para me perguntar sobre qualquer assunto!  
